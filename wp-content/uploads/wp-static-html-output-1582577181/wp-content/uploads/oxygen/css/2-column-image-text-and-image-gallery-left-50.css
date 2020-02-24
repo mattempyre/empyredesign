@@ -1,0 +1,12 @@
+#section-1-50 > .ct-section-inner-wrap {padding-top: 24px;padding-bottom: 24px;}
+#div_block-3-50 {width: 50%;}
+#div_block-4-50 {width: 50%;}
+@media (max-width:991px) {#new_columns-2-50> .ct-div-block {width: 100% !important;}}
+#headline-5-50 {margin-bottom: 24px;}
+#slide-11-50 {flex-direction: row;display: flex;text-align: center;}
+#slider-8-50 .unslider-nav ol li {border-color: #fff;}
+#slider-8-50 .unslider-nav ol li.unslider-active {background-color: #fff;}
+#slider-8-50 .unslider .unslider-nav {position: absolute;bottom: 0;left: 0;right: 0;z-index: 100;}
+#slider-8-50 .unslider-wrap {display: flex;}
+#slider-8-50 .ct-slide {height: 100%;}
+#slider-8-50 .unslider, #slider-8-50 .oxygen-unslider-container, #slider-8-50 .unslider-wrap, #slider-8-50 .unslider-wrap li {height: 100%;}
